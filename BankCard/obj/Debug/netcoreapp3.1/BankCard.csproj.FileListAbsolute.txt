@@ -1,0 +1,14 @@
+C:\Users\Aydan\Desktop\BankCard\BankCard\bin\Debug\netcoreapp3.1\BankCard.exe
+C:\Users\Aydan\Desktop\BankCard\BankCard\bin\Debug\netcoreapp3.1\BankCard.deps.json
+C:\Users\Aydan\Desktop\BankCard\BankCard\bin\Debug\netcoreapp3.1\BankCard.runtimeconfig.json
+C:\Users\Aydan\Desktop\BankCard\BankCard\bin\Debug\netcoreapp3.1\BankCard.runtimeconfig.dev.json
+C:\Users\Aydan\Desktop\BankCard\BankCard\bin\Debug\netcoreapp3.1\BankCard.dll
+C:\Users\Aydan\Desktop\BankCard\BankCard\bin\Debug\netcoreapp3.1\BankCard.pdb
+C:\Users\Aydan\Desktop\BankCard\BankCard\obj\Debug\netcoreapp3.1\BankCard.csproj.AssemblyReference.cache
+C:\Users\Aydan\Desktop\BankCard\BankCard\obj\Debug\netcoreapp3.1\BankCard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aydan\Desktop\BankCard\BankCard\obj\Debug\netcoreapp3.1\BankCard.AssemblyInfoInputs.cache
+C:\Users\Aydan\Desktop\BankCard\BankCard\obj\Debug\netcoreapp3.1\BankCard.AssemblyInfo.cs
+C:\Users\Aydan\Desktop\BankCard\BankCard\obj\Debug\netcoreapp3.1\BankCard.csproj.CoreCompileInputs.cache
+C:\Users\Aydan\Desktop\BankCard\BankCard\obj\Debug\netcoreapp3.1\BankCard.dll
+C:\Users\Aydan\Desktop\BankCard\BankCard\obj\Debug\netcoreapp3.1\BankCard.pdb
+C:\Users\Aydan\Desktop\BankCard\BankCard\obj\Debug\netcoreapp3.1\BankCard.genruntimeconfig.cache
